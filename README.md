@@ -4,7 +4,7 @@
 
 #### :student: I am a student of Computer Science
 #### 👀 I’m interested in :musical_note: music, :camera: photography, and :world_map: travel
-#### 🌱 I’m currently learning ML
+#### 🌱 I’m currently working as IT Professional
 #### 💞️ Feel free to contact me to collaborate
 #### 📫 Reach me via
 ##### :email: brihatbajracharya (at) gmail (dot) com
